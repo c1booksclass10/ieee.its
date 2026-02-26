@@ -1,0 +1,4 @@
+echo "" > data/.gitkeep
+git add data/.gitkeep
+git commit -m "Add data directory for SQLite"
+git push origin main
