@@ -1,5 +1,5 @@
 {
-  "name": "Night Slip Management",
-  "description": "Secure night slip and late hour request management system with Google Authentication.",
+  "name": "IEEE ITS Night Slip Management",
+  "description": "Secure portal for IEEE ITS members to manage night slips and attendance tracking.",
   "requestFramePermissions": []
 }
